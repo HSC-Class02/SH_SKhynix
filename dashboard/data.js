@@ -1,0 +1,1 @@
+window.FINANCIAL_DATA=[];
