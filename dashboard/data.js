@@ -1,1 +1,1 @@
-window.FINANCIAL_DATA=[];
+window.FINANCIAL_DATA={annual:[],half_year:[],quarterly:[],updated_at:null,source:"OpenDART",start_year:2010,api_note:"OpenDART fnlttSinglAcntAll provides financial statements from 2015 onward; 2010-2014 are retained as explicit unavailable periods."};
