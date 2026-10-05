@@ -30,7 +30,7 @@ jobs:
         run: pip install -r requirements.txt
       - name: Run DART pipeline
         env:
-          DART_API_KEY: ${{ secrets.DART_API_KEY }}
+          DART_API_KEY: ${{ secrets.DART_API_KEY || secrets.OPENDART_API_KEY }}
           DART_CORP_CODE: '00164779'
           START_YEAR: '2010'
         run: python scripts/run_pipeline.py
