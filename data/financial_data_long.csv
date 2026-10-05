@@ -1,0 +1,830 @@
+﻿year,report_code,report,metric,value,account_nm,fs_div
+2015,11011,annual,current_assets,9760030000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2015,11011,annual,cash,1175719000000.0,현금및현금성자산; 현금및현금성자산에 대한 환율변동효과; 현금및현금성자산의 순증가(감소); 기초현금및현금성자산; 기말현금및현금성자산,CFS
+2015,11011,annual,receivables,2628448000000.0,매출채권,CFS
+2015,11011,annual,inventory,1923376000000.0,재고자산,CFS
+2015,11011,annual,ppe_purchase,23740877000000.0,유형자산; 유형자산의 취득,CFS
+2015,11011,annual,depreciation,1704896000000.0,무형자산,CFS
+2015,11011,annual,intangibles_purchase,2328639000000.0,무형자산; 무형자산의 취득,CFS
+2015,11011,annual,total_assets,29677906000000.0,자산총계,CFS
+2015,11011,annual,current_liabilities,4840698000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2015,11011,annual,debt,3818595000000.0,차입금; 차입금; 전환사채의 전환; 전환사채의 전환; 전환사채의 전환; 전환사채의 전환,CFS
+2015,11011,annual,total_liabilities,8290203000000.0,부채총계; 자본과부채총계,CFS
+2015,11011,annual,total_equity,21387703000000.0,자본총계,CFS
+2015,11011,annual,revenue,18797998000000.0,매출액,CFS
+2015,11011,annual,cost_of_sales,10515353000000.0,매출원가,CFS
+2015,11011,annual,gross_profit,8282645000000.0,매출총이익,CFS
+2015,11011,annual,operating_profit,5336100000000.0,영업이익(손실),CFS
+2015,11011,annual,interest_expense,829913000000.0,금융비용,CFS
+2015,11011,annual,net_income,4323595000000.0,당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실),CFS
+2015,11011,annual,cfo,9319520000000.0,영업활동현금흐름,CFS
+2015,11011,annual,cfi,-7125530000000.0,투자활동현금흐름,CFS
+2015,11011,annual,cff,-1462257000000.0,재무활동현금흐름,CFS
+2016,11011,annual,current_assets,9838982000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2016,11011,annual,cash,613786000000.0,현금및현금성자산; 현금및현금성자산에 대한 환율변동효과; 현금및현금성자산의 순증가(감소); 기초현금및현금성자산; 기말현금및현금성자산,CFS
+2016,11011,annual,receivables,3251652000000.0,매출채권,CFS
+2016,11011,annual,inventory,2026198000000.0,재고자산,CFS
+2016,11011,annual,ppe_purchase,24733756000000.0,유형자산; 유형자산의 취득,CFS
+2016,11011,annual,depreciation,1915591000000.0,무형자산,CFS
+2016,11011,annual,intangibles_purchase,2445966000000.0,무형자산; 무형자산의 취득,CFS
+2016,11011,annual,total_assets,32216026000000.0,자산총계,CFS
+2016,11011,annual,current_liabilities,4160849000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2016,11011,annual,debt,4335978000000.0,차입금; 차입금; 전환사채의 전환; 전환사채의 전환; 전환사채의 전환; 전환사채의 전환,CFS
+2016,11011,annual,total_liabilities,8192496000000.0,부채총계; 자본과부채총계,CFS
+2016,11011,annual,total_equity,24023530000000.0,자본총계,CFS
+2016,11011,annual,revenue,17197975000000.0,매출액,CFS
+2016,11011,annual,cost_of_sales,10787139000000.0,매출원가,CFS
+2016,11011,annual,gross_profit,6410836000000.0,매출총이익,CFS
+2016,11011,annual,operating_profit,3276746000000.0,영업이익(손실),CFS
+2016,11011,annual,interest_expense,846328000000.0,금융비용,CFS
+2016,11011,annual,net_income,2960483000000.0,당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실),CFS
+2016,11011,annual,cfo,5548922000000.0,영업활동현금흐름,CFS
+2016,11011,annual,cfi,-6230451000000.0,투자활동현금흐름,CFS
+2016,11011,annual,cff,116876000000.0,재무활동현금흐름,CFS
+2016,11012,half-year,current_assets,8356317000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2016,11012,half-year,cash,987448000000.0,현금및현금성자산; 현금및현금성자산에 대한 환율변동효과; 현금및현금성자산의 순증가(감소); 기초현금및현금성자산; 기말현금및현금성자산,CFS
+2016,11012,half-year,receivables,2470502000000.0,매출채권,CFS
+2016,11012,half-year,inventory,2010992000000.0,재고자산,CFS
+2016,11012,half-year,ppe_purchase,21190805000000.0,유형자산; 유형자산의 취득,CFS
+2016,11012,half-year,depreciation,1760564000000.0,무형자산,CFS
+2016,11012,half-year,intangibles_purchase,2008361000000.0,무형자산; 무형자산의 취득,CFS
+2016,11012,half-year,total_assets,29329452000000.0,자산총계,CFS
+2016,11012,half-year,current_liabilities,3163858000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2016,11012,half-year,debt,4355375000000.0,차입금; 차입금; 전환사채의 전환; 전환사채의 전환; 전환사채의 전환; 전환사채의 전환,CFS
+2016,11012,half-year,total_liabilities,7628630000000.0,부채총계; 자본과부채총계,CFS
+2016,11012,half-year,total_equity,21700822000000.0,자본총계,CFS
+2016,11012,half-year,revenue,3940927000000.0,매출액,CFS
+2016,11012,half-year,cost_of_sales,2689117000000.0,매출원가,CFS
+2016,11012,half-year,gross_profit,1251810000000.0,매출총이익,CFS
+2016,11012,half-year,operating_profit,452853000000.0,영업이익(손실),CFS
+2016,11012,half-year,interest_expense,219460000000.0,금융비용,CFS
+2016,11012,half-year,net_income,286132000000.0,당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실),CFS
+2016,11012,half-year,cfo,1932535000000.0,영업활동현금흐름,CFS
+2016,11012,half-year,cfi,-2326760000000.0,투자활동현금흐름,CFS
+2016,11012,half-year,cff,211580000000.0,재무활동현금흐름,CFS
+2016,11013,quarterly-Q1,current_assets,9163101000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2016,11013,quarterly-Q1,cash,946946000000.0,현금및현금성자산; 현금및현금성자산에 대한 환율변동효과; 현금및현금성자산의 순증가(감소); 기초현금및현금성자산; 기말현금및현금성자산,CFS
+2016,11013,quarterly-Q1,receivables,2266364000000.0,매출채권,CFS
+2016,11013,quarterly-Q1,inventory,2193908000000.0,재고자산,CFS
+2016,11013,quarterly-Q1,ppe_purchase,19316019000000.0,유형자산; 유형자산의 취득,CFS
+2016,11013,quarterly-Q1,depreciation,1735514000000.0,무형자산,CFS
+2016,11013,quarterly-Q1,intangibles_purchase,1865165000000.0,무형자산; 무형자산의 취득,CFS
+2016,11013,quarterly-Q1,total_assets,29797655000000.0,자산총계,CFS
+2016,11013,quarterly-Q1,current_liabilities,4251605000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2016,11013,quarterly-Q1,debt,4381352000000.0,차입금; 차입금; 전환사채의 전환; 전환사채의 전환; 전환사채의 전환; 전환사채의 전환,CFS
+2016,11013,quarterly-Q1,total_liabilities,8332966000000.0,부채총계; 자본과부채총계,CFS
+2016,11013,quarterly-Q1,total_equity,21464689000000.0,자본총계,CFS
+2016,11013,quarterly-Q1,revenue,3655717000000.0,매출액,CFS
+2016,11013,quarterly-Q1,cost_of_sales,2337672000000.0,매출원가,CFS
+2016,11013,quarterly-Q1,gross_profit,1318045000000.0,매출총이익,CFS
+2016,11013,quarterly-Q1,operating_profit,561798000000.0,영업이익(손실),CFS
+2016,11013,quarterly-Q1,interest_expense,292464000000.0,금융비용,CFS
+2016,11013,quarterly-Q1,net_income,448026000000.0,당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실),CFS
+2016,11013,quarterly-Q1,cfo,649699000000.0,영업활동현금흐름,CFS
+2016,11013,quarterly-Q1,cfi,-1470668000000.0,투자활동현금흐름,CFS
+2016,11013,quarterly-Q1,cff,615154000000.0,재무활동현금흐름,CFS
+2016,11014,quarterly-Q3,current_assets,8228379000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2016,11014,quarterly-Q3,cash,1214703000000.0,현금및현금성자산; 현금및현금성자산에 대한 환율변동효과; 현금및현금성자산의 순증가(감소); 기초현금및현금성자산; 기말현금및현금성자산,CFS
+2016,11014,quarterly-Q3,receivables,2313000000000.0,매출채권,CFS
+2016,11014,quarterly-Q3,inventory,1995002000000.0,재고자산,CFS
+2016,11014,quarterly-Q3,ppe_purchase,22489330000000.0,유형자산; 유형자산의 취득,CFS
+2016,11014,quarterly-Q3,depreciation,1805666000000.0,무형자산,CFS
+2016,11014,quarterly-Q3,intangibles_purchase,2181260000000.0,무형자산; 무형자산의 취득,CFS
+2016,11014,quarterly-Q3,total_assets,29166995000000.0,자산총계,CFS
+2016,11014,quarterly-Q3,current_liabilities,2974257000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2016,11014,quarterly-Q3,debt,4148771000000.0,차입금; 차입금; 전환사채의 전환; 전환사채의 전환; 전환사채의 전환; 전환사채의 전환,CFS
+2016,11014,quarterly-Q3,total_liabilities,7162415000000.0,부채총계; 자본과부채총계,CFS
+2016,11014,quarterly-Q3,total_equity,22004580000000.0,자본총계,CFS
+2016,11014,quarterly-Q3,revenue,4243645000000.0,매출액,CFS
+2016,11014,quarterly-Q3,cost_of_sales,2792288000000.0,매출원가,CFS
+2016,11014,quarterly-Q3,gross_profit,1451357000000.0,매출총이익,CFS
+2016,11014,quarterly-Q3,operating_profit,725956000000.0,영업이익(손실),CFS
+2016,11014,quarterly-Q3,interest_expense,243216000000.0,금융비용,CFS
+2016,11014,quarterly-Q3,net_income,597751000000.0,당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실),CFS
+2016,11014,quarterly-Q3,cfo,3569159000000.0,영업활동현금흐름,CFS
+2016,11014,quarterly-Q3,cfi,-3629309000000.0,투자활동현금흐름,CFS
+2016,11014,quarterly-Q3,cff,135246000000.0,재무활동현금흐름,CFS
+2017,11011,annual,current_assets,17310444000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2017,11011,annual,cash,2949991000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초 현금및현금성자산; 기말 현금및현금성자산,CFS
+2017,11011,annual,receivables,5552795000000.0,매출채권,CFS
+2017,11011,annual,inventory,2640439000000.0,재고자산,CFS
+2017,11011,annual,ppe_purchase,33190904000000.0,유형자산; 유형자산의 취득,CFS
+2017,11011,annual,depreciation,2247290000000.0,무형자산,CFS
+2017,11011,annual,intangibles_purchase,3032201000000.0,무형자산; 무형자산의 취득,CFS
+2017,11011,annual,total_assets,45418464000000.0,자산총계,CFS
+2017,11011,annual,current_liabilities,8116133000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2017,11011,annual,debt,4171270000000.0,차입금; 장기차입금,CFS
+2017,11011,annual,total_liabilities,11597545000000.0,부채총계; 자본과부채총계,CFS
+2017,11011,annual,total_equity,33820919000000.0,자본총계,CFS
+2017,11011,annual,revenue,30109434000000.0,매출액,CFS
+2017,11011,annual,cost_of_sales,12701843000000.0,매출원가,CFS
+2017,11011,annual,gross_profit,17407591000000.0,매출총이익,CFS
+2017,11011,annual,operating_profit,13721326000000.0,영업이익,CFS
+2017,11011,annual,interest_expense,1249617000000.0,금융비용,CFS
+2017,11011,annual,net_income,10642219000000.0,당기순이익; 당기순이익; 당기순이익; 당기순이익; 당기순이익,CFS
+2017,11011,annual,cfo,14690614000000.0,영업활동현금흐름,CFS
+2017,11011,annual,cfi,-11919162000000.0,투자활동현금흐름,CFS
+2017,11011,annual,cff,-351906000000.0,재무활동현금흐름,CFS
+2017,11012,half-year,current_assets,12290962000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2017,11012,half-year,cash,1326003000000.0,현금및현금성자산; 현금및현금성자산에 대한 환율변동효과; 현금및현금성자산의 순증가(감소); 기초현금및현금성자산; 기말현금및현금성자산,CFS
+2017,11012,half-year,receivables,4257266000000.0,매출채권,CFS
+2017,11012,half-year,inventory,2424006000000.0,재고자산,CFS
+2017,11012,half-year,ppe_purchase,26078716000000.0,유형자산; 유형자산의 취득,CFS
+2017,11012,half-year,depreciation,2162731000000.0,무형자산,CFS
+2017,11012,half-year,intangibles_purchase,2592444000000.0,무형자산; 무형자산의 취득,CFS
+2017,11012,half-year,total_assets,37501577000000.0,자산총계,CFS
+2017,11012,half-year,current_liabilities,5483352000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2017,11012,half-year,debt,4622063000000.0,차입금; 차입금,CFS
+2017,11012,half-year,total_liabilities,9737793000000.0,부채총계; 자본과부채총계,CFS
+2017,11012,half-year,total_equity,27763784000000.0,자본총계,CFS
+2017,11012,half-year,revenue,6692278000000.0,매출액,CFS
+2017,11012,half-year,cost_of_sales,2858804000000.0,매출원가,CFS
+2017,11012,half-year,gross_profit,3833474000000.0,매출총이익,CFS
+2017,11012,half-year,operating_profit,3050700000000.0,영업이익(손실),CFS
+2017,11012,half-year,interest_expense,199007000000.0,금융비용,CFS
+2017,11012,half-year,net_income,2468509000000.0,당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실),CFS
+2017,11012,half-year,cfo,6104122000000.0,영업활동현금흐름,CFS
+2017,11012,half-year,cfi,-5381034000000.0,투자활동현금흐름,CFS
+2017,11012,half-year,cff,-22657000000.0,재무활동현금흐름,CFS
+2017,11013,quarterly-Q1,current_assets,10841409000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2017,11013,quarterly-Q1,cash,2162786000000.0,현금및현금성자산; 현금및현금성자산에 대한 환율변동효과; 현금및현금성자산의 순증가(감소); 기초현금및현금성자산; 기말현금및현금성자산,CFS
+2017,11013,quarterly-Q1,receivables,3452210000000.0,매출채권,CFS
+2017,11013,quarterly-Q1,inventory,2040563000000.0,재고자산,CFS
+2017,11013,quarterly-Q1,ppe_purchase,21874474000000.0,유형자산; 유형자산의 취득,CFS
+2017,11013,quarterly-Q1,depreciation,2002619000000.0,무형자산,CFS
+2017,11013,quarterly-Q1,intangibles_purchase,2196916000000.0,무형자산; 무형자산의 취득,CFS
+2017,11013,quarterly-Q1,total_assets,34319500000000.0,자산총계,CFS
+2017,11013,quarterly-Q1,current_liabilities,5167516000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2017,11013,quarterly-Q1,debt,4343396000000.0,차입금; 차입금,CFS
+2017,11013,quarterly-Q1,total_liabilities,9150581000000.0,부채총계; 자본과부채총계,CFS
+2017,11013,quarterly-Q1,total_equity,25168919000000.0,자본총계,CFS
+2017,11013,quarterly-Q1,revenue,6289518000000.0,매출액,CFS
+2017,11013,quarterly-Q1,cost_of_sales,2984822000000.0,매출원가,CFS
+2017,11013,quarterly-Q1,gross_profit,3304696000000.0,매출총이익,CFS
+2017,11013,quarterly-Q1,operating_profit,2467599000000.0,영업이익(손실),CFS
+2017,11013,quarterly-Q1,interest_expense,467249000000.0,금융비용,CFS
+2017,11013,quarterly-Q1,net_income,1898678000000.0,당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실),CFS
+2017,11013,quarterly-Q1,cfo,2820020000000.0,영업활동현금흐름,CFS
+2017,11013,quarterly-Q1,cfi,-1396667000000.0,투자활동현금흐름,CFS
+2017,11013,quarterly-Q1,cff,177535000000.0,재무활동현금흐름,CFS
+2017,11014,quarterly-Q3,current_assets,14557910000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2017,11014,quarterly-Q3,cash,1123119000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초 현금및현금성자산; 기말 현금및현금성자산,CFS
+2017,11014,quarterly-Q3,receivables,5260576000000.0,매출채권,CFS
+2017,11014,quarterly-Q3,inventory,2557403000000.0,재고자산,CFS
+2017,11014,quarterly-Q3,ppe_purchase,28829829000000.0,유형자산; 유형자산의 취득,CFS
+2017,11014,quarterly-Q3,depreciation,2236944000000.0,무형자산,CFS
+2017,11014,quarterly-Q3,intangibles_purchase,2859189000000.0,무형자산; 무형자산의 취득,CFS
+2017,11014,quarterly-Q3,total_assets,40730453000000.0,자산총계,CFS
+2017,11014,quarterly-Q3,current_liabilities,5642787000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2017,11014,quarterly-Q3,debt,4303538000000.0,차입금; 장기차입금,CFS
+2017,11014,quarterly-Q3,total_liabilities,9825955000000.0,부채총계; 자본과부채총계,CFS
+2017,11014,quarterly-Q3,total_equity,30904498000000.0,자본총계,CFS
+2017,11014,quarterly-Q3,revenue,8100085000000.0,매출액,CFS
+2017,11014,quarterly-Q3,cost_of_sales,3398157000000.0,매출원가,CFS
+2017,11014,quarterly-Q3,gross_profit,4701928000000.0,매출총이익,CFS
+2017,11014,quarterly-Q3,operating_profit,3737193000000.0,영업이익,CFS
+2017,11014,quarterly-Q3,interest_expense,159536000000.0,금융비용,CFS
+2017,11014,quarterly-Q3,net_income,3055529000000.0,당기순이익; 당기순이익; 당기순이익; 당기순이익; 당기순이익,CFS
+2017,11014,quarterly-Q3,cfo,9904080000000.0,영업활동현금흐름,CFS
+2017,11014,quarterly-Q3,cfi,-9048646000000.0,투자활동현금흐름,CFS
+2017,11014,quarterly-Q3,cff,-362299000000.0,재무활동현금흐름,CFS
+2018,11011,annual,current_assets,19894146000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2018,11011,annual,cash,2349319000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초 현금및현금성자산; 기말 현금및현금성자산,CFS
+2018,11011,annual,receivables,6319994000000.0,매출채권,CFS
+2018,11011,annual,inventory,4422733000000.0,재고자산,CFS
+2018,11011,annual,ppe_purchase,50988763000000.0,유형자산; 유형자산의 취득,CFS
+2018,11011,annual,depreciation,2678770000000.0,무형자산,CFS
+2018,11011,annual,intangibles_purchase,3611909000000.0,무형자산; 무형자산의 취득,CFS
+2018,11011,annual,total_assets,63658335000000.0,자산총계,CFS
+2018,11011,annual,current_liabilities,13031852000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2018,11011,annual,debt,5281937000000.0,차입금; 장기차입금,CFS
+2018,11011,annual,total_liabilities,16806004000000.0,부채총계; 자본과부채총계,CFS
+2018,11011,annual,total_equity,46852331000000.0,자본총계,CFS
+2018,11011,annual,revenue,40445066000000.0,매출액,CFS
+2018,11011,annual,cost_of_sales,15180838000000.0,매출원가,CFS
+2018,11011,annual,gross_profit,25264228000000.0,매출총이익,CFS
+2018,11011,annual,operating_profit,20843750000000.0,영업이익,CFS
+2018,11011,annual,interest_expense,1142134000000.0,금융비용,CFS
+2018,11011,annual,net_income,15539984000000.0,당기순이익; 당기순이익; 당기순이익; 당기순이익; 당기순이익,CFS
+2018,11011,annual,cfo,22227199000000.0,영업활동현금흐름,CFS
+2018,11011,annual,cfi,-21428749000000.0,투자활동현금흐름,CFS
+2018,11011,annual,cff,-1395317000000.0,재무활동현금흐름,CFS
+2018,11012,half-year,current_assets,15695268000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2018,11012,half-year,cash,1187928000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초 현금및현금성자산; 기말 현금및현금성자산,CFS
+2018,11012,half-year,receivables,7351385000000.0,매출채권,CFS
+2018,11012,half-year,inventory,3367788000000.0,재고자산,CFS
+2018,11012,half-year,ppe_purchase,37770280000000.0,유형자산; 유형자산의 취득,CFS
+2018,11012,half-year,depreciation,2408291000000.0,무형자산,CFS
+2018,11012,half-year,intangibles_purchase,2822762000000.0,무형자산; 무형자산의 취득,CFS
+2018,11012,half-year,total_assets,53257080000000.0,자산총계,CFS
+2018,11012,half-year,current_liabilities,8727425000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2018,11012,half-year,debt,5415070000000.0,단기차입금 및 유동성 장기차입금; 장기차입금,CFS
+2018,11012,half-year,total_liabilities,12479404000000.0,부채총계; 자본과부채총계,CFS
+2018,11012,half-year,total_equity,40777676000000.0,자본총계,CFS
+2018,11012,half-year,revenue,10370507000000.0,매출액,CFS
+2018,11012,half-year,cost_of_sales,3762243000000.0,매출원가,CFS
+2018,11012,half-year,gross_profit,6608264000000.0,매출총이익,CFS
+2018,11012,half-year,operating_profit,5573918000000.0,영업이익,CFS
+2018,11012,half-year,interest_expense,364340000000.0,금융비용,CFS
+2018,11012,half-year,net_income,4328543000000.0,당기순이익; 당기순이익; 당기순이익; 당기순이익; 당기순이익,CFS
+2018,11012,half-year,cfo,8168263000000.0,영업활동현금흐름,CFS
+2018,11012,half-year,cfi,-10364680000000.0,투자활동현금흐름,CFS
+2018,11012,half-year,cff,410215000000.0,재무활동현금흐름,CFS
+2018,11013,quarterly-Q1,current_assets,17632878000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2018,11013,quarterly-Q1,cash,3477358000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초 현금및현금성자산; 기말 현금및현금성자산,CFS
+2018,11013,quarterly-Q1,receivables,5574098000000.0,매출채권,CFS
+2018,11013,quarterly-Q1,inventory,3103142000000.0,재고자산,CFS
+2018,11013,quarterly-Q1,ppe_purchase,31681992000000.0,유형자산; 유형자산의 취득,CFS
+2018,11013,quarterly-Q1,depreciation,2304852000000.0,무형자산,CFS
+2018,11013,quarterly-Q1,intangibles_purchase,2497078000000.0,무형자산; 무형자산의 취득,CFS
+2018,11013,quarterly-Q1,total_assets,49125123000000.0,자산총계,CFS
+2018,11013,quarterly-Q1,current_liabilities,9352773000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2018,11013,quarterly-Q1,debt,3866709000000.0,차입금; 장기차입금,CFS
+2018,11013,quarterly-Q1,total_liabilities,12746637000000.0,부채총계; 자본과부채총계,CFS
+2018,11013,quarterly-Q1,total_equity,36378486000000.0,자본총계,CFS
+2018,11013,quarterly-Q1,revenue,8719691000000.0,매출액,CFS
+2018,11013,quarterly-Q1,cost_of_sales,3383214000000.0,매출원가,CFS
+2018,11013,quarterly-Q1,gross_profit,5336477000000.0,매출총이익,CFS
+2018,11013,quarterly-Q1,operating_profit,4367338000000.0,영업이익,CFS
+2018,11013,quarterly-Q1,interest_expense,313278000000.0,금융비용,CFS
+2018,11013,quarterly-Q1,net_income,3121329000000.0,당기순이익; 당기순이익; 당기순이익; 당기순이익; 당기순이익,CFS
+2018,11013,quarterly-Q1,cfo,4523576000000.0,영업활동현금흐름,CFS
+2018,11013,quarterly-Q1,cfi,-3709452000000.0,투자활동현금흐름,CFS
+2018,11013,quarterly-Q1,cff,-301005000000.0,재무활동현금흐름,CFS
+2018,11014,quarterly-Q3,current_assets,17700533000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2018,11014,quarterly-Q3,cash,2340357000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초 현금및현금성자산; 기말 현금및현금성자산,CFS
+2018,11014,quarterly-Q3,receivables,7711347000000.0,매출채권,CFS
+2018,11014,quarterly-Q3,inventory,3686740000000.0,재고자산,CFS
+2018,11014,quarterly-Q3,ppe_purchase,43017180000000.0,유형자산; 유형자산의 취득,CFS
+2018,11014,quarterly-Q3,depreciation,2469187000000.0,무형자산,CFS
+2018,11014,quarterly-Q3,intangibles_purchase,3082546000000.0,무형자산; 무형자산의 취득,CFS
+2018,11014,quarterly-Q3,total_assets,57377252000000.0,자산총계,CFS
+2018,11014,quarterly-Q3,current_liabilities,10002009000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2018,11014,quarterly-Q3,debt,4977378000000.0,단기차입금 및 유동성 장기차입금; 장기차입금,CFS
+2018,11014,quarterly-Q3,total_liabilities,13888426000000.0,부채총계; 자본과부채총계,CFS
+2018,11014,quarterly-Q3,total_equity,43488826000000.0,자본총계,CFS
+2018,11014,quarterly-Q3,revenue,11416788000000.0,매출액,CFS
+2018,11014,quarterly-Q3,cost_of_sales,3871624000000.0,매출원가,CFS
+2018,11014,quarterly-Q3,gross_profit,7545164000000.0,매출총이익,CFS
+2018,11014,quarterly-Q3,operating_profit,6472420000000.0,영업이익,CFS
+2018,11014,quarterly-Q3,interest_expense,251999000000.0,금융비용,CFS
+2018,11014,quarterly-Q3,net_income,4692193000000.0,당기순이익; 당기순이익; 당기순이익; 당기순이익; 당기순이익,CFS
+2018,11014,quarterly-Q3,cfo,15256517000000.0,영업활동현금흐름,CFS
+2018,11014,quarterly-Q3,cfi,-14172714000000.0,투자활동현금흐름,CFS
+2018,11014,quarterly-Q3,cff,-1691367000000.0,재무활동현금흐름,CFS
+2019,11011,annual,current_assets,14457602000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2019,11011,annual,cash,2306070000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초 현금및현금성자산; 기말 현금및현금성자산,CFS
+2019,11011,annual,receivables,4261674000000.0,매출채권; 장기매출채권,CFS
+2019,11011,annual,inventory,5295835000000.0,재고자산,CFS
+2019,11011,annual,ppe_purchase,53870184000000.0,유형자산; 유형자산의 취득,CFS
+2019,11011,annual,depreciation,2571049000000.0,무형자산,CFS
+2019,11011,annual,intangibles_purchase,3244405000000.0,무형자산; 무형자산의 취득,CFS
+2019,11011,annual,total_assets,64789494000000.0,자산총계,CFS
+2019,11011,annual,current_liabilities,7874033000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2019,11011,annual,debt,12048289000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2019,11011,annual,total_liabilities,16846299000000.0,부채총계,CFS
+2019,11011,annual,total_equity,47943195000000.0,자본총계; 부채및자본총계,CFS
+2019,11011,annual,revenue,26990733000000.0,매출액,CFS
+2019,11011,annual,cost_of_sales,18825275000000.0,매출원가,CFS
+2019,11011,annual,gross_profit,8165458000000.0,매출총이익,CFS
+2019,11011,annual,operating_profit,2712718000000.0,영업이익,CFS
+2019,11011,annual,interest_expense,1514869000000.0,금융비용,CFS
+2019,11011,annual,net_income,2016391000000.0,당기순이익; 당기순이익; 당기순이익; 당기순이익; 당기순이익,CFS
+2019,11011,annual,cfo,6483188000000.0,영업활동현금흐름,CFS
+2019,11011,annual,cfi,-10450936000000.0,투자활동현금흐름,CFS
+2019,11011,annual,cff,3903216000000.0,재무활동현금흐름,CFS
+2019,11012,half-year,current_assets,14242750000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2019,11012,half-year,cash,1128775000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초 현금및현금성자산; 반기말 현금및현금성자산,CFS
+2019,11012,half-year,receivables,4802736000000.0,매출채권,CFS
+2019,11012,half-year,inventory,5588705000000.0,재고자산,CFS
+2019,11012,half-year,ppe_purchase,46942730000000.0,유형자산; 유형자산의 취득,CFS
+2019,11012,half-year,depreciation,2573593000000.0,무형자산,CFS
+2019,11012,half-year,intangibles_purchase,2903490000000.0,무형자산; 무형자산의 취득,CFS
+2019,11012,half-year,total_assets,63032264000000.0,자산총계,CFS
+2019,11012,half-year,current_liabilities,7512771000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2019,11012,half-year,debt,10004576000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2019,11012,half-year,total_liabilities,15321477000000.0,부채총계,CFS
+2019,11012,half-year,total_equity,47710787000000.0,자본총계; 부채및자본총계,CFS
+2019,11012,half-year,revenue,6452201000000.0,매출액,CFS
+2019,11012,half-year,cost_of_sales,4435389000000.0,매출원가,CFS
+2019,11012,half-year,gross_profit,2016812000000.0,매출총이익,CFS
+2019,11012,half-year,operating_profit,637630000000.0,영업이익,CFS
+2019,11012,half-year,interest_expense,476798000000.0,금융비용,CFS
+2019,11012,half-year,cfo,1402561000000.0,영업활동현금흐름,CFS
+2019,11012,half-year,cfi,-4883483000000.0,투자활동현금흐름,CFS
+2019,11012,half-year,cff,2241765000000.0,재무활동현금흐름,CFS
+2019,11013,quarterly-Q1,current_assets,18618236000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2019,11013,quarterly-Q1,cash,1152257000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초 현금및현금성자산; 분기말 현금및현금성자산,CFS
+2019,11013,quarterly-Q1,receivables,5496813000000.0,매출채권,CFS
+2019,11013,quarterly-Q1,inventory,5117491000000.0,재고자산,CFS
+2019,11013,quarterly-Q1,ppe_purchase,40734672000000.0,유형자산; 유형자산의 취득,CFS
+2019,11013,quarterly-Q1,depreciation,2611595000000.0,무형자산,CFS
+2019,11013,quarterly-Q1,intangibles_purchase,2760031000000.0,무형자산; 무형자산의 취득,CFS
+2019,11013,quarterly-Q1,total_assets,65131501000000.0,자산총계,CFS
+2019,11013,quarterly-Q1,current_liabilities,13231722000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2019,11013,quarterly-Q1,debt,7368400000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2019,11013,quarterly-Q1,total_liabilities,17965494000000.0,부채총계,CFS
+2019,11013,quarterly-Q1,total_equity,47166007000000.0,자본총계; 부채및자본총계,CFS
+2019,11013,quarterly-Q1,revenue,6772655000000.0,매출액,CFS
+2019,11013,quarterly-Q1,cost_of_sales,4092455000000.0,매출원가,CFS
+2019,11013,quarterly-Q1,gross_profit,2680200000000.0,매출총이익,CFS
+2019,11013,quarterly-Q1,operating_profit,1366490000000.0,영업이익,CFS
+2019,11013,quarterly-Q1,interest_expense,247855000000.0,금융비용,CFS
+2019,11013,quarterly-Q1,cfo,2630762000000.0,영업활동현금흐름,CFS
+2019,11013,quarterly-Q1,cfi,-4655347000000.0,투자활동현금흐름,CFS
+2019,11013,quarterly-Q1,cff,807047000000.0,재무활동현금흐름,CFS
+2019,11014,quarterly-Q3,current_assets,14175499000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2019,11014,quarterly-Q3,cash,1203143000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초 현금및현금성자산; 분기말 현금및현금성자산,CFS
+2019,11014,quarterly-Q3,receivables,4757987000000.0,매출채권,CFS
+2019,11014,quarterly-Q3,inventory,5473612000000.0,재고자산,CFS
+2019,11014,quarterly-Q3,ppe_purchase,50326880000000.0,유형자산; 유형자산의 취득,CFS
+2019,11014,quarterly-Q3,depreciation,2566223000000.0,무형자산,CFS
+2019,11014,quarterly-Q3,intangibles_purchase,3061733000000.0,무형자산; 무형자산의 취득,CFS
+2019,11014,quarterly-Q3,total_assets,63671751000000.0,자산총계,CFS
+2019,11014,quarterly-Q3,current_liabilities,6827424000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2019,11014,quarterly-Q3,debt,10987211000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2019,11014,quarterly-Q3,total_liabilities,15405525000000.0,부채총계,CFS
+2019,11014,quarterly-Q3,total_equity,48266226000000.0,자본총계; 부채및자본총계,CFS
+2019,11014,quarterly-Q3,revenue,6838766000000.0,매출액,CFS
+2019,11014,quarterly-Q3,cost_of_sales,5023127000000.0,매출원가,CFS
+2019,11014,quarterly-Q3,gross_profit,1815639000000.0,매출총이익,CFS
+2019,11014,quarterly-Q3,operating_profit,472561000000.0,영업이익,CFS
+2019,11014,quarterly-Q3,interest_expense,389229000000.0,금융비용,CFS
+2019,11014,quarterly-Q3,cfo,3899615000000.0,영업활동현금흐름,CFS
+2019,11014,quarterly-Q3,cfi,-8031196000000.0,투자활동현금흐름,CFS
+2019,11014,quarterly-Q3,cff,2952780000000.0,재무활동현금흐름,CFS
+2020,11011,annual,current_assets,16570953000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2020,11011,annual,cash,2975989000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초현금및현금성자산; 기말현금및현금성자산,CFS
+2020,11011,annual,receivables,4931322000000.0,매출채권; 장기매출채권,CFS
+2020,11011,annual,inventory,6136318000000.0,재고자산,CFS
+2020,11011,annual,ppe_purchase,51299224000000.0,유형자산; 유형자산의 취득,CFS
+2020,11011,annual,depreciation,3400278000000.0,무형자산,CFS
+2020,11011,annual,intangibles_purchase,4201007000000.0,무형자산; 무형자산의 취득,CFS
+2020,11011,annual,total_assets,71173853000000.0,자산총계,CFS
+2020,11011,annual,current_liabilities,9072360000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2020,11011,annual,debt,13215104000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2020,11011,annual,total_liabilities,19264756000000.0,부채총계,CFS
+2020,11011,annual,total_equity,51909097000000.0,자본총계; 부채및자본총계,CFS
+2020,11011,annual,revenue,31900418000000.0,매출액,CFS
+2020,11011,annual,cost_of_sales,21089789000000.0,매출원가,CFS
+2020,11011,annual,gross_profit,10810629000000.0,매출총이익,CFS
+2020,11011,annual,operating_profit,5012624000000.0,영업이익,CFS
+2020,11011,annual,interest_expense,1980411000000.0,금융비용,CFS
+2020,11011,annual,net_income,4758914000000.0,당기순이익; 당기순이익; 당기순이익; 당기순이익; 당기순이익,CFS
+2020,11011,annual,cff,252054000000.0,재무활동현금흐름,CFS
+2020,11012,half-year,current_assets,17362825000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2020,11012,half-year,cash,3918249000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초 현금및현금성자산; 반기말 현금및현금성자산,CFS
+2020,11012,half-year,receivables,5608420000000.0,매출채권; 장기매출채권,CFS
+2020,11012,half-year,inventory,5814139000000.0,재고자산,CFS
+2020,11012,half-year,ppe_purchase,45514628000000.0,유형자산; 유형자산의 취득,CFS
+2020,11012,half-year,depreciation,3625550000000.0,무형자산,CFS
+2020,11012,half-year,intangibles_purchase,3945785000000.0,무형자산; 무형자산의 취득,CFS
+2020,11012,half-year,total_assets,69259297000000.0,자산총계,CFS
+2020,11012,half-year,current_liabilities,9595472000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2020,11012,half-year,debt,13963918000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2020,11012,half-year,total_liabilities,19856421000000.0,부채총계,CFS
+2020,11012,half-year,total_equity,49402876000000.0,자본총계; 부채및자본총계,CFS
+2020,11012,half-year,revenue,8606534000000.0,매출액,CFS
+2020,11012,half-year,cost_of_sales,5262329000000.0,매출원가,CFS
+2020,11012,half-year,gross_profit,3344205000000.0,매출총이익,CFS
+2020,11012,half-year,operating_profit,1946715000000.0,영업이익,CFS
+2020,11012,half-year,interest_expense,273946000000.0,금융비용,CFS
+2020,11012,half-year,cfo,5686029000000.0,영업활동현금흐름,CFS
+2020,11012,half-year,cfi,-5194269000000.0,투자활동현금흐름,CFS
+2020,11012,half-year,cff,1138422000000.0,재무활동현금흐름,CFS
+2020,11013,quarterly-Q1,current_assets,15799759000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2020,11013,quarterly-Q1,cash,2169664000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초 현금및현금성자산; 분기말 현금및현금성자산,CFS
+2020,11013,quarterly-Q1,receivables,4716880000000.0,매출채권; 장기매출채권,CFS
+2020,11013,quarterly-Q1,inventory,5425680000000.0,재고자산,CFS
+2020,11013,quarterly-Q1,ppe_purchase,43301455000000.0,유형자산; 유형자산의 취득,CFS
+2020,11013,quarterly-Q1,depreciation,2549486000000.0,무형자산,CFS
+2020,11013,quarterly-Q1,intangibles_purchase,2702552000000.0,무형자산; 무형자산의 취득,CFS
+2020,11013,quarterly-Q1,total_assets,67142787000000.0,자산총계,CFS
+2020,11013,quarterly-Q1,current_liabilities,8707249000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2020,11013,quarterly-Q1,debt,13680764000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2020,11013,quarterly-Q1,total_liabilities,18895063000000.0,부채총계,CFS
+2020,11013,quarterly-Q1,total_equity,48247724000000.0,자본총계; 부채및자본총계,CFS
+2020,11013,quarterly-Q1,revenue,7198892000000.0,매출액,CFS
+2020,11013,quarterly-Q1,cost_of_sales,5006819000000.0,매출원가,CFS
+2020,11013,quarterly-Q1,gross_profit,2192073000000.0,매출총이익,CFS
+2020,11013,quarterly-Q1,operating_profit,800301000000.0,영업이익,CFS
+2020,11013,quarterly-Q1,interest_expense,554787000000.0,금융비용,CFS
+2020,11013,quarterly-Q1,cfo,2331545000000.0,영업활동현금흐름,CFS
+2020,11013,quarterly-Q1,cfi,-3892512000000.0,투자활동현금흐름,CFS
+2020,11013,quarterly-Q1,cff,1417273000000.0,재무활동현금흐름,CFS
+2020,11014,quarterly-Q3,current_assets,17036210000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2020,11014,quarterly-Q3,cash,2807138000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순감소; 기초 현금및현금성자산; 분기말 현금및현금성자산,CFS
+2020,11014,quarterly-Q3,receivables,5475806000000.0,매출채권; 장기매출채권,CFS
+2020,11014,quarterly-Q3,inventory,6150544000000.0,재고자산,CFS
+2020,11014,quarterly-Q3,ppe_purchase,48251324000000.0,유형자산; 유형자산의 취득,CFS
+2020,11014,quarterly-Q3,depreciation,3502348000000.0,무형자산,CFS
+2020,11014,quarterly-Q3,intangibles_purchase,4032476000000.0,무형자산; 무형자산의 취득,CFS
+2020,11014,quarterly-Q3,total_assets,69267173000000.0,자산총계,CFS
+2020,11014,quarterly-Q3,current_liabilities,8851618000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2020,11014,quarterly-Q3,debt,13102625000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2020,11014,quarterly-Q3,total_liabilities,18768114000000.0,부채총계,CFS
+2020,11014,quarterly-Q3,total_equity,50499059000000.0,자본총계; 부채및자본총계,CFS
+2020,11014,quarterly-Q3,revenue,8128767000000.0,매출액,CFS
+2020,11014,quarterly-Q3,cost_of_sales,5285510000000.0,매출원가,CFS
+2020,11014,quarterly-Q3,gross_profit,2843257000000.0,매출총이익,CFS
+2020,11014,quarterly-Q3,operating_profit,1299696000000.0,영업이익,CFS
+2020,11014,quarterly-Q3,interest_expense,301542000000.0,금융비용,CFS
+2020,11014,quarterly-Q3,cfo,9052744000000.0,영업활동현금흐름,CFS
+2020,11014,quarterly-Q3,cfi,-8860975000000.0,투자활동현금흐름,CFS
+2020,11014,quarterly-Q3,cff,300509000000.0,재무활동현금흐름,CFS
+2021,11011,annual,current_assets,26870451000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2021,11011,annual,cash,5057982000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초현금및현금성자산; 기말현금및현금성자산,CFS
+2021,11011,annual,receivables,8267111000000.0,매출채권; 장기매출채권,CFS
+2021,11011,annual,inventory,8916605000000.0,재고자산,CFS
+2021,11011,annual,ppe_purchase,65520905000000.0,유형자산; 유형자산의 취득,CFS
+2021,11011,annual,depreciation,5065132000000.0,무형자산,CFS
+2021,11011,annual,intangibles_purchase,6039025000000.0,무형자산; 무형자산의 취득,CFS
+2021,11011,annual,total_assets,96386474000000.0,자산총계,CFS
+2021,11011,annual,current_liabilities,14769356000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2021,11011,annual,debt,19473546000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2021,11011,annual,total_liabilities,34195416000000.0,부채총계,CFS
+2021,11011,annual,total_equity,62191058000000.0,자본총계; 부채및자본총계,CFS
+2021,11011,annual,revenue,42997792000000.0,매출액,CFS
+2021,11011,annual,cost_of_sales,24045600000000.0,매출원가,CFS
+2021,11011,annual,gross_profit,18952192000000.0,매출총이익,CFS
+2021,11011,annual,operating_profit,12410340000000.0,영업이익,CFS
+2021,11011,annual,interest_expense,1469860000000.0,금융비용,CFS
+2021,11011,annual,net_income,9616188000000.0,당기순이익; 당기순이익; 당기순이익; 당기순이익; 당기순이익,CFS
+2021,11011,annual,cff,4492313000000.0,재무활동현금흐름,CFS
+2021,11012,half-year,current_assets,20099557000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2021,11012,half-year,cash,2666351000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초현금및현금성자산; 반기말현금및현금성자산,CFS
+2021,11012,half-year,receivables,6500214000000.0,매출채권,CFS
+2021,11012,half-year,inventory,6226651000000.0,재고자산,CFS
+2021,11012,half-year,ppe_purchase,50786441000000.0,유형자산; 유형자산의 취득,CFS
+2021,11012,half-year,depreciation,3587156000000.0,무형자산,CFS
+2021,11012,half-year,intangibles_purchase,4144840000000.0,무형자산; 무형자산의 취득,CFS
+2021,11012,half-year,total_assets,77717897000000.0,자산총계,CFS
+2021,11012,half-year,current_liabilities,9186924000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2021,11012,half-year,debt,15623447000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2021,11012,half-year,total_liabilities,22839883000000.0,부채총계,CFS
+2021,11012,half-year,total_equity,54878014000000.0,자본총계; 부채및자본총계,CFS
+2021,11012,half-year,revenue,10321671000000.0,매출액,CFS
+2021,11012,half-year,cost_of_sales,5982227000000.0,매출원가,CFS
+2021,11012,half-year,gross_profit,4339444000000.0,매출총이익,CFS
+2021,11012,half-year,operating_profit,2694574000000.0,영업이익,CFS
+2021,11012,half-year,interest_expense,216686000000.0,금융비용,CFS
+2021,11012,half-year,cff,1269270000000.0,재무활동현금흐름,CFS
+2021,11013,quarterly-Q1,current_assets,18384877000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2021,11013,quarterly-Q1,cash,2226144000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초현금및현금성자산; 분기말현금및현금성자산,CFS
+2021,11013,quarterly-Q1,receivables,5336152000000.0,매출채권,CFS
+2021,11013,quarterly-Q1,inventory,6182597000000.0,재고자산,CFS
+2021,11013,quarterly-Q1,ppe_purchase,47434001000000.0,유형자산; 유형자산의 취득,CFS
+2021,11013,quarterly-Q1,depreciation,3473051000000.0,무형자산,CFS
+2021,11013,quarterly-Q1,intangibles_purchase,3722652000000.0,무형자산; 무형자산의 취득,CFS
+2021,11013,quarterly-Q1,total_assets,75118008000000.0,자산총계,CFS
+2021,11013,quarterly-Q1,current_liabilities,9830992000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2021,11013,quarterly-Q1,debt,15418171000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2021,11013,quarterly-Q1,total_liabilities,22739419000000.0,부채총계,CFS
+2021,11013,quarterly-Q1,total_equity,52378589000000.0,자본총계; 부채및자본총계,CFS
+2021,11013,quarterly-Q1,revenue,8494188000000.0,매출액,CFS
+2021,11013,quarterly-Q1,cost_of_sales,5765640000000.0,매출원가,CFS
+2021,11013,quarterly-Q1,gross_profit,2728548000000.0,매출총이익,CFS
+2021,11013,quarterly-Q1,operating_profit,1324421000000.0,영업이익,CFS
+2021,11013,quarterly-Q1,interest_expense,589521000000.0,금융비용,CFS
+2021,11013,quarterly-Q1,cff,1900472000000.0,재무활동현금흐름,CFS
+2021,11014,quarterly-Q3,current_assets,24910504000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2021,11014,quarterly-Q3,cash,2761977000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초현금및현금성자산; 분기말현금및현금성자산,CFS
+2021,11014,quarterly-Q3,receivables,7517462000000.0,매출채권,CFS
+2021,11014,quarterly-Q3,inventory,6600336000000.0,재고자산,CFS
+2021,11014,quarterly-Q3,ppe_purchase,54039993000000.0,유형자산; 유형자산의 취득,CFS
+2021,11014,quarterly-Q3,depreciation,3540650000000.0,무형자산,CFS
+2021,11014,quarterly-Q3,intangibles_purchase,4271714000000.0,무형자산; 무형자산의 취득,CFS
+2021,11014,quarterly-Q3,total_assets,83269048000000.0,자산총계,CFS
+2021,11014,quarterly-Q3,current_liabilities,10545603000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2021,11014,quarterly-Q3,debt,16106083000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2021,11014,quarterly-Q3,total_liabilities,24554602000000.0,부채총계,CFS
+2021,11014,quarterly-Q3,total_equity,58714446000000.0,자본총계; 부채및자본총계,CFS
+2021,11014,quarterly-Q3,revenue,11805324000000.0,매출액,CFS
+2021,11014,quarterly-Q3,cost_of_sales,5974270000000.0,매출원가,CFS
+2021,11014,quarterly-Q3,gross_profit,5831054000000.0,매출총이익,CFS
+2021,11014,quarterly-Q3,operating_profit,4171821000000.0,영업이익,CFS
+2021,11014,quarterly-Q3,interest_expense,274108000000.0,금융비용,CFS
+2021,11014,quarterly-Q3,cff,1318312000000.0,재무활동현금흐름,CFS
+2022,11011,annual,current_assets,28733332000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2022,11011,annual,cash,4977007000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초 현금및현금성자산; 기말 현금및현금성자산,CFS
+2022,11011,annual,receivables,5186054000000.0,매출채권; 기타,CFS
+2022,11011,annual,inventory,15664707000000.0,재고자산,CFS
+2022,11011,annual,ppe_purchase,79238789000000.0,유형자산; 유형자산의 취득,CFS
+2022,11011,annual,depreciation,3512107000000.0,무형자산,CFS
+2022,11011,annual,intangibles_purchase,4250728000000.0,무형자산; 무형자산의 취득,CFS
+2022,11011,annual,total_assets,103871512000000.0,자산총계,CFS
+2022,11011,annual,current_liabilities,19843696000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2022,11011,annual,debt,25093543000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2022,11011,annual,total_liabilities,40580970000000.0,부채총계,CFS
+2022,11011,annual,total_equity,63290542000000.0,자본총계; 부채및자본총계,CFS
+2022,11011,annual,revenue,44621568000000.0,매출액,CFS
+2022,11011,annual,cost_of_sales,28993713000000.0,매출원가,CFS
+2022,11011,annual,gross_profit,15627855000000.0,매출총이익,CFS
+2022,11011,annual,operating_profit,6809417000000.0,영업이익,CFS
+2022,11011,annual,interest_expense,5091553000000.0,금융비용,CFS
+2022,11011,annual,net_income,2241669000000.0,당기순이익; 당기순이익; 당기순이익; 당기순이익; 당기순이익,CFS
+2022,11012,half-year,current_assets,29719276000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2022,11012,half-year,cash,4546312000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 감소; 기초현금및현금성자산; 반기말현금및현금성자산,CFS
+2022,11012,half-year,receivables,9040032000000.0,매출채권,CFS
+2022,11012,half-year,inventory,11878738000000.0,재고자산,CFS
+2022,11012,half-year,ppe_purchase,68183243000000.0,유형자산; 유형자산의 취득,CFS
+2022,11012,half-year,depreciation,5048484000000.0,무형자산,CFS
+2022,11012,half-year,intangibles_purchase,5393075000000.0,무형자산; 무형자산의 취득,CFS
+2022,11012,half-year,total_assets,104147622000000.0,자산총계,CFS
+2022,11012,half-year,current_liabilities,16869305000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2022,11012,half-year,debt,21299284000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2022,11012,half-year,total_liabilities,37387462000000.0,부채총계,CFS
+2022,11012,half-year,total_equity,66760160000000.0,자본총계; 부채및자본총계,CFS
+2022,11012,half-year,revenue,13811001000000.0,매출액,CFS
+2022,11012,half-year,cost_of_sales,7466622000000.0,매출원가,CFS
+2022,11012,half-year,gross_profit,6344379000000.0,매출총이익,CFS
+2022,11012,half-year,operating_profit,4192617000000.0,영업이익,CFS
+2022,11012,half-year,interest_expense,1814401000000.0,금융비용,CFS
+2022,11012,half-year,cff,-743924000000.0,재무활동현금흐름,CFS
+2022,11013,quarterly-Q1,current_assets,27767761000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2022,11013,quarterly-Q1,cash,4982764000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초현금및현금성자산; 분기말현금및현금성자산,CFS
+2022,11013,quarterly-Q1,receivables,8146418000000.0,매출채권,CFS
+2022,11013,quarterly-Q1,inventory,10392670000000.0,재고자산,CFS
+2022,11013,quarterly-Q1,ppe_purchase,60557489000000.0,유형자산; 유형자산의 취득,CFS
+2022,11013,quarterly-Q1,depreciation,4988923000000.0,무형자산,CFS
+2022,11013,quarterly-Q1,intangibles_purchase,5187073000000.0,무형자산; 무형자산의 취득,CFS
+2022,11013,quarterly-Q1,total_assets,99466056000000.0,자산총계,CFS
+2022,11013,quarterly-Q1,current_liabilities,16659247000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2022,11013,quarterly-Q1,debt,19780348000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2022,11013,quarterly-Q1,total_liabilities,36067417000000.0,부채총계,CFS
+2022,11013,quarterly-Q1,total_equity,63398639000000.0,자본총계; 부채및자본총계,CFS
+2022,11013,quarterly-Q1,revenue,12155653000000.0,매출액,CFS
+2022,11013,quarterly-Q1,cost_of_sales,6747914000000.0,매출원가,CFS
+2022,11013,quarterly-Q1,gross_profit,5407739000000.0,매출총이익,CFS
+2022,11013,quarterly-Q1,operating_profit,2859615000000.0,영업이익,CFS
+2022,11013,quarterly-Q1,interest_expense,737321000000.0,금융비용,CFS
+2022,11013,quarterly-Q1,cff,175316000000.0,재무활동현금흐름,CFS
+2022,11014,quarterly-Q3,current_assets,31896913000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2022,11014,quarterly-Q3,cash,4719217000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 감소; 기초현금및현금성자산; 분기말현금및현금성자산,CFS
+2022,11014,quarterly-Q3,receivables,8519642000000.0,매출채권; 기타,CFS
+2022,11014,quarterly-Q3,inventory,14664974000000.0,재고자산,CFS
+2022,11014,quarterly-Q3,ppe_purchase,75277257000000.0,유형자산; 유형자산의 취득,CFS
+2022,11014,quarterly-Q3,depreciation,5508385000000.0,무형자산,CFS
+2022,11014,quarterly-Q3,intangibles_purchase,6029972000000.0,무형자산; 무형자산의 취득,CFS
+2022,11014,quarterly-Q3,total_assets,109545800000000.0,자산총계,CFS
+2022,11014,quarterly-Q3,current_liabilities,18383115000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2022,11014,quarterly-Q3,debt,24039006000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2022,11014,quarterly-Q3,total_liabilities,40822614000000.0,부채총계,CFS
+2022,11014,quarterly-Q3,total_equity,68723186000000.0,자본총계; 부채및자본총계,CFS
+2022,11014,quarterly-Q3,revenue,10982883000000.0,매출액,CFS
+2022,11014,quarterly-Q3,cost_of_sales,7110221000000.0,매출원가,CFS
+2022,11014,quarterly-Q3,gross_profit,3872662000000.0,매출총이익,CFS
+2022,11014,quarterly-Q3,operating_profit,1655560000000.0,영업이익,CFS
+2022,11014,quarterly-Q3,interest_expense,2064165000000.0,금융비용,CFS
+2022,11014,quarterly-Q3,cff,102806000000.0,재무활동현금흐름,CFS
+2023,11011,annual,total_assets,100330165000000.0,자산총계,CFS
+2023,11011,annual,current_assets,30468100000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2023,11011,annual,cash,7587329000000.0,현금및현금성자산; 기초현금및현금성자산; 기말현금및현금성자산; 현금및현금성자산에 대한 환율변동효과; 현금및현금성자산의순증가(감소),CFS
+2023,11011,annual,receivables,6600273000000.0,매출채권; 기타,CFS
+2023,11011,annual,inventory,13480659000000.0,재고자산,CFS
+2023,11011,annual,depreciation,3834567000000.0,무형자산,CFS
+2023,11011,annual,intangibles_purchase,4289277000000.0,무형자산; 무형자산의 취득,CFS
+2023,11011,annual,ppe_purchase,61029991000000.0,유형자산; 유형자산의 취득,CFS
+2023,11011,annual,total_equity,53503752000000.0,자본총계; 부채및자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계,CFS
+2023,11011,annual,current_liabilities,21007810000000.0,유동부채; 기타 유동부채; 비유동부채,CFS
+2023,11011,annual,debt,32959972000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2023,11011,annual,total_liabilities,46826413000000.0,부채총계,CFS
+2023,11011,annual,operating_profit,-7730313000000.0,영업이익(손실),CFS
+2023,11011,annual,cost_of_sales,33299167000000.0,매출원가,CFS
+2023,11011,annual,interest_expense,6093167000000.0,금융비용,CFS
+2023,11011,annual,gross_profit,-533448000000.0,매출총이익,CFS
+2023,11011,annual,net_income,-9137547000000.0,당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실),CFS
+2023,11011,annual,revenue,32765719000000.0,매출액,CFS
+2023,11011,annual,cff,5696845000000.0,재무활동현금흐름,CFS
+2023,11011,annual,cfi,-7334727000000.0,투자활동현금흐름,CFS
+2023,11011,annual,cfo,4278191000000.0,영업활동현금흐름,CFS
+2023,11012,half-year,current_assets,29661132000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2023,11012,half-year,cash,6040810000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초 현금및현금성자산; 반기말 현금및현금성자산,CFS
+2023,11012,half-year,receivables,4487069000000.0,매출채권,CFS
+2023,11012,half-year,inventory,16420200000000.0,재고자산,CFS
+2023,11012,half-year,ppe_purchase,61683756000000.0,유형자산; 유형자산의 취득,CFS
+2023,11012,half-year,depreciation,3773021000000.0,무형자산,CFS
+2023,11012,half-year,intangibles_purchase,4034834000000.0,무형자산; 무형자산의 취득,CFS
+2023,11012,half-year,total_assets,102819007000000.0,자산총계,CFS
+2023,11012,half-year,current_liabilities,19776433000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2023,11012,half-year,debt,32951401000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2023,11012,half-year,total_liabilities,45359957000000.0,부채총계,CFS
+2023,11012,half-year,total_equity,57459050000000.0,자본총계; 부채및자본총계,CFS
+2023,11012,half-year,revenue,7305933000000.0,매출액,CFS
+2023,11012,half-year,cost_of_sales,8483761000000.0,매출원가,CFS
+2023,11012,half-year,gross_profit,-1177828000000.0,매출총이익(손실),CFS
+2023,11012,half-year,operating_profit,-2882084000000.0,영업이익(손실),CFS
+2023,11012,half-year,interest_expense,1312018000000.0,금융비용,CFS
+2023,11013,quarterly-Q1,current_assets,28834021000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2023,11013,quarterly-Q1,cash,4894782000000.0,현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감; 기초 현금및현금성자산; 분기말 현금및현금성자산,CFS
+2023,11013,quarterly-Q1,receivables,4227451000000.0,매출채권,CFS
+2023,11013,quarterly-Q1,inventory,17182269000000.0,재고자산,CFS
+2023,11013,quarterly-Q1,ppe_purchase,62377791000000.0,유형자산; 유형자산의 취득,CFS
+2023,11013,quarterly-Q1,depreciation,3831198000000.0,무형자산,CFS
+2023,11013,quarterly-Q1,intangibles_purchase,3995981000000.0,무형자산; 무형자산의 취득,CFS
+2023,11013,quarterly-Q1,total_assets,104384608000000.0,자산총계,CFS
+2023,11013,quarterly-Q1,current_liabilities,17276137000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2023,11013,quarterly-Q1,debt,30807714000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2023,11013,quarterly-Q1,total_liabilities,43376074000000.0,부채총계,CFS
+2023,11013,quarterly-Q1,total_equity,61008534000000.0,자본총계; 부채및자본총계,CFS
+2023,11013,quarterly-Q1,revenue,5088111000000.0,매출액,CFS
+2023,11013,quarterly-Q1,cost_of_sales,6733410000000.0,매출원가,CFS
+2023,11013,quarterly-Q1,gross_profit,-1645299000000.0,매출총이익(손실),CFS
+2023,11013,quarterly-Q1,operating_profit,-3402302000000.0,영업이익(손실),CFS
+2023,11013,quarterly-Q1,interest_expense,1202394000000.0,금융비용,CFS
+2023,11014,quarterly-Q3,total_assets,102049450000000.0,자산총계,CFS
+2023,11014,quarterly-Q3,current_assets,30393967000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2023,11014,quarterly-Q3,receivables,5515297000000.0,매출채권,CFS
+2023,11014,quarterly-Q3,cash,7122306000000.0,현금및현금성자산; 기초 현금및현금성자산; 분기말 현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감,CFS
+2023,11014,quarterly-Q3,inventory,14947895000000.0,재고자산,CFS
+2023,11014,quarterly-Q3,depreciation,3551901000000.0,무형자산,CFS
+2023,11014,quarterly-Q3,intangibles_purchase,3904583000000.0,무형자산; 무형자산의 취득,CFS
+2023,11014,quarterly-Q3,ppe_purchase,60616485000000.0,유형자산; 유형자산의 취득,CFS
+2023,11014,quarterly-Q3,total_equity,55231560000000.0,자본총계; 부채및자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계,CFS
+2023,11014,quarterly-Q3,current_liabilities,20250122000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2023,11014,quarterly-Q3,debt,34865618000000.0,리스부채; 차입금; 차입금; 리스부채; 리스부채의 상환,CFS
+2023,11014,quarterly-Q3,total_liabilities,46817890000000.0,부채총계,CFS
+2023,11014,quarterly-Q3,operating_profit,-1791961000000.0,영업이익(손실),CFS
+2023,11014,quarterly-Q3,cost_of_sales,9002045000000.0,매출원가,CFS
+2023,11014,quarterly-Q3,interest_expense,1141653000000.0,금융비용,CFS
+2023,11014,quarterly-Q3,gross_profit,64126000000.0,매출총이익(손실),CFS
+2023,11014,quarterly-Q3,revenue,9066171000000.0,매출액,CFS
+2024,11011,annual,total_assets,119855209000000.0,자산총계,CFS
+2024,11011,annual,current_assets,42278887000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2024,11011,annual,cash,11205117000000.0,현금및현금성자산; 기초현금및현금성자산; 기말현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감,CFS
+2024,11011,annual,receivables,13019006000000.0,매출채권,CFS
+2024,11011,annual,inventory,13313937000000.0,재고자산,CFS
+2024,11011,annual,depreciation,4018847000000.0,무형자산,CFS
+2024,11011,annual,intangibles_purchase,4735953000000.0,무형자산; 무형자산의 취득,CFS
+2024,11011,annual,ppe_purchase,76103008000000.0,유형자산; 유형자산의 취득,CFS
+2024,11011,annual,total_equity,73915704000000.0,자본총계; 부채및자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계,CFS
+2024,11011,annual,current_liabilities,24965444000000.0,유동부채; 기타 유동부채; 비유동부채; 기타비유동부채,CFS
+2024,11011,annual,debt,26053930000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2024,11011,annual,total_liabilities,45939505000000.0,부채총계,CFS
+2024,11011,annual,operating_profit,23467319000000.0,영업이익(손실),CFS
+2024,11011,annual,cost_of_sales,34364814000000.0,매출원가,CFS
+2024,11011,annual,interest_expense,5707997000000.0,금융비용,CFS
+2024,11011,annual,gross_profit,31828146000000.0,매출총이익(손실),CFS
+2024,11011,annual,net_income,19796902000000.0,당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실),CFS
+2024,11011,annual,revenue,66192960000000.0,매출액,CFS
+2024,11012,half-year,total_assets,105624349000000.0,자산총계,CFS
+2024,11012,half-year,current_assets,35683696000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2024,11012,half-year,cash,7933829000000.0,현금및현금성자산; 기초현금및현금성자산; 반기말 현금및현금성자산; 현금및현금성자산에 대한 환율변동효과; 현금및현금성자산의 증가(감소),CFS
+2024,11012,half-year,receivables,10223675000000.0,매출채권; 기타,CFS
+2024,11012,half-year,inventory,13354938000000.0,재고자산,CFS
+2024,11012,half-year,depreciation,3839880000000.0,무형자산,CFS
+2024,11012,half-year,intangibles_purchase,4097519000000.0,무형자산; 무형자산의 취득,CFS
+2024,11012,half-year,ppe_purchase,58398112000000.0,유형자산; 유형자산의 취득,CFS
+2024,11012,half-year,total_equity,59830020000000.0,자본총계; 부채및자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계,CFS
+2024,11012,half-year,current_liabilities,23354170000000.0,유동부채; 기타 유동부채; 비유동부채,CFS
+2024,11012,half-year,debt,28389868000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2024,11012,half-year,total_liabilities,45794329000000.0,부채총계,CFS
+2024,11012,half-year,operating_profit,5468536000000.0,영업이익(손실),CFS
+2024,11012,half-year,cost_of_sales,8926794000000.0,매출원가,CFS
+2024,11012,half-year,interest_expense,1312751000000.0,금융비용,CFS
+2024,11012,half-year,gross_profit,7496464000000.0,매출총이익(손실),CFS
+2024,11012,half-year,revenue,16423258000000.0,매출액,CFS
+2024,11012,half-year,cff,-5032904000000.0,재무활동현금흐름,CFS
+2024,11012,half-year,cfi,-5774579000000.0,투자활동현금흐름,CFS
+2024,11012,half-year,cfo,11015501000000.0,영업활동현금흐름,CFS
+2024,11013,quarterly-Q1,total_assets,103197515000000.0,자산총계,CFS
+2024,11013,quarterly-Q1,current_assets,33026065000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2024,11013,quarterly-Q1,cash,8381395000000.0,현금및현금성자산; 기초현금및현금성자산; 분기말 현금및현금성자산; 현금및현금성자산에 대한 환율변동효과; 현금및현금성자산의 증가(감소),CFS
+2024,11013,quarterly-Q1,receivables,7178507000000.0,매출채권,CFS
+2024,11013,quarterly-Q1,inventory,13844639000000.0,재고자산,CFS
+2024,11013,quarterly-Q1,depreciation,3829941000000.0,무형자산,CFS
+2024,11013,quarterly-Q1,intangibles_purchase,3935836000000.0,무형자산; 무형자산의 취득,CFS
+2024,11013,quarterly-Q1,ppe_purchase,56266738000000.0,유형자산; 유형자산의 취득,CFS
+2024,11013,quarterly-Q1,total_equity,55507402000000.0,자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계,CFS
+2024,11013,quarterly-Q1,total_liabilities,103197515000000.0,자본과부채총계; 부채총계,CFS
+2024,11013,quarterly-Q1,current_liabilities,23401233000000.0,유동부채; 기타 유동부채; 비유동부채,CFS
+2024,11013,quarterly-Q1,debt,32736085000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2024,11013,quarterly-Q1,operating_profit,2886029000000.0,영업이익(손실),CFS
+2024,11013,quarterly-Q1,cost_of_sales,7634953000000.0,매출원가,CFS
+2024,11013,quarterly-Q1,interest_expense,1625139000000.0,금융비용,CFS
+2024,11013,quarterly-Q1,gross_profit,4794645000000.0,매출총이익(손실),CFS
+2024,11013,quarterly-Q1,cff,-909670000000.0,재무활동현금흐름,CFS
+2024,11013,quarterly-Q1,cfi,-3797325000000.0,투자활동현금흐름,CFS
+2024,11013,quarterly-Q1,cfo,5356478000000.0,영업활동현금흐름,CFS
+2024,11014,quarterly-Q3,total_assets,108367058000000.0,자산총계,CFS
+2024,11014,quarterly-Q3,current_assets,37078030000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2024,11014,quarterly-Q3,cash,9135688000000.0,현금및현금성자산; 기초현금및현금성자산; 분기말 현금및현금성자산; 현금및현금성자산에 대한 환율변동효과; 현금및현금성자산의 순증감,CFS
+2024,11014,quarterly-Q3,receivables,10471229000000.0,매출채권,CFS
+2024,11014,quarterly-Q3,inventory,13353865000000.0,재고자산,CFS
+2024,11014,quarterly-Q3,depreciation,3926466000000.0,무형자산,CFS
+2024,11014,quarterly-Q3,intangibles_purchase,4452116000000.0,무형자산; 무형자산의 취득,CFS
+2024,11014,quarterly-Q3,ppe_purchase,63306164000000.0,유형자산; 유형자산의 취득,CFS
+2024,11014,quarterly-Q3,total_equity,65301520000000.0,자본총계; 부채및자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계,CFS
+2024,11014,quarterly-Q3,current_liabilities,23031263000000.0,유동부채; 기타 유동부채; 비유동부채,CFS
+2024,11014,quarterly-Q3,debt,25006718000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2024,11014,quarterly-Q3,total_liabilities,43065538000000.0,부채총계,CFS
+2024,11014,quarterly-Q3,operating_profit,7029958000000.0,영업이익(손실),CFS
+2024,11014,quarterly-Q3,cost_of_sales,8401685000000.0,매출원가,CFS
+2024,11014,quarterly-Q3,interest_expense,1778636000000.0,금융비용,CFS
+2024,11014,quarterly-Q3,gross_profit,9171384000000.0,매출총이익(손실),CFS
+2024,11014,quarterly-Q3,revenue,17573069000000.0,매출액,CFS
+2024,11014,quarterly-Q3,cff,-7773740000000.0,재무활동현금흐름,CFS
+2024,11014,quarterly-Q3,cfi,-9391319000000.0,투자활동현금흐름,CFS
+2024,11014,quarterly-Q3,cfo,18774763000000.0,영업활동현금흐름,CFS
+2025,11011,annual,total_assets,176107659000000.0,자산총계,CFS
+2025,11011,annual,current_assets,69458073000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2025,11011,annual,cash,14923766000000.0,현금및현금성자산; 기초 현금및현금성자산; 기말 현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감,CFS
+2025,11011,annual,receivables,18199078000000.0,매출채권,CFS
+2025,11011,annual,inventory,14289390000000.0,재고자산,CFS
+2025,11011,annual,depreciation,4049402000000.0,무형자산,CFS
+2025,11011,annual,intangibles_purchase,5109821000000.0,무형자산; 무형자산의 취득,CFS
+2025,11011,annual,ppe_purchase,105021628000000.0,유형자산; 유형자산의 취득,CFS
+2025,11011,annual,total_equity,120666751000000.0,자본총계; 부채및자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계,CFS
+2025,11011,annual,current_liabilities,37378999000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2025,11011,annual,debt,25354313000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2025,11011,annual,total_liabilities,55440908000000.0,부채총계,CFS
+2025,11011,annual,operating_profit,47206319000000.0,영업이익(손실),CFS
+2025,11011,annual,cost_of_sales,38455885000000.0,매출원가,CFS
+2025,11011,annual,interest_expense,12504998000000.0,금융비용,CFS
+2025,11011,annual,gross_profit,58690790000000.0,매출총이익(손실),CFS
+2025,11011,annual,net_income,42947902000000.0,당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실); 당기순이익(손실),CFS
+2025,11011,annual,revenue,97146675000000.0,매출액,CFS
+2025,11012,half-year,total_assets,129087781000000.0,자산총계,CFS
+2025,11012,half-year,current_assets,45203170000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2025,11012,half-year,cash,9075311000000.0,현금및현금성자산; 기초 현금및현금성자산; 반기말 현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감,CFS
+2025,11012,half-year,receivables,13125210000000.0,매출채권; 기타; 기타,CFS
+2025,11012,half-year,inventory,13408333000000.0,재고자산,CFS
+2025,11012,half-year,depreciation,3945141000000.0,무형자산,CFS
+2025,11012,half-year,intangibles_purchase,4405578000000.0,무형자산; 무형자산의 취득,CFS
+2025,11012,half-year,ppe_purchase,75088672000000.0,유형자산; 유형자산의 취득,CFS
+2025,11012,half-year,total_equity,87142485000000.0,자본총계; 부채및자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계,CFS
+2025,11012,half-year,current_liabilities,25324404000000.0,유동부채; 기타 유동부채; 비유동부채; 기타비유동부채,CFS
+2025,11012,half-year,debt,24670905000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2025,11012,half-year,total_liabilities,41945296000000.0,부채총계,CFS
+2025,11012,half-year,operating_profit,9212851000000.0,영업이익,CFS
+2025,11012,half-year,cost_of_sales,10248628000000.0,매출원가,CFS
+2025,11012,half-year,interest_expense,2172268000000.0,금융비용,CFS
+2025,11012,half-year,gross_profit,11983324000000.0,매출총이익,CFS
+2025,11012,half-year,revenue,22231952000000.0,매출액,CFS
+2025,11013,quarterly-Q1,total_assets,123985470000000.0,자산총계,CFS
+2025,11013,quarterly-Q1,current_assets,41228190000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2025,11013,quarterly-Q1,cash,12558069000000.0,현금및현금성자산; 기초 현금및현금성자산; 분기말 현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감,CFS
+2025,11013,quarterly-Q1,receivables,10628589000000.0,매출채권,CFS
+2025,11013,quarterly-Q1,inventory,14551350000000.0,재고자산,CFS
+2025,11013,quarterly-Q1,depreciation,3962700000000.0,무형자산,CFS
+2025,11013,quarterly-Q1,intangibles_purchase,4133165000000.0,무형자산; 무형자산의 취득,CFS
+2025,11013,quarterly-Q1,ppe_purchase,69299522000000.0,유형자산; 유형자산의 취득,CFS
+2025,11013,quarterly-Q1,total_equity,81438753000000.0,자본총계; 부채및자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계,CFS
+2025,11013,quarterly-Q1,current_liabilities,24836401000000.0,유동부채; 기타 유동부채; 비유동부채; 기타비유동부채,CFS
+2025,11013,quarterly-Q1,debt,26135423000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2025,11013,quarterly-Q1,total_liabilities,42546717000000.0,부채총계,CFS
+2025,11013,quarterly-Q1,operating_profit,7440504000000.0,영업이익,CFS
+2025,11013,quarterly-Q1,cost_of_sales,7537150000000.0,매출원가,CFS
+2025,11013,quarterly-Q1,interest_expense,764604000000.0,금융비용,CFS
+2025,11013,quarterly-Q1,gross_profit,10101991000000.0,매출총이익,CFS
+2025,11013,quarterly-Q1,revenue,17639141000000.0,매출액,CFS
+2025,11014,quarterly-Q3,total_assets,148435030000000.0,자산총계,CFS
+2025,11014,quarterly-Q3,current_assets,57139556000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2025,11014,quarterly-Q3,cash,10814515000000.0,현금및현금성자산; 기초 현금및현금성자산; 분기말 현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감,CFS
+2025,11014,quarterly-Q3,receivables,14312462000000.0,매출채권; 기타,CFS
+2025,11014,quarterly-Q3,inventory,13156389000000.0,재고자산,CFS
+2025,11014,quarterly-Q3,depreciation,3953945000000.0,무형자산,CFS
+2025,11014,quarterly-Q3,intangibles_purchase,4639182000000.0,무형자산; 무형자산의 취득,CFS
+2025,11014,quarterly-Q3,ppe_purchase,83793511000000.0,유형자산; 유형자산의 취득,CFS
+2025,11014,quarterly-Q3,total_equity,100006279000000.0,자본총계; 부채및자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계,CFS
+2025,11014,quarterly-Q3,current_liabilities,29769431000000.0,유동부채; 기타 유동부채; 비유동부채; 기타비유동부채,CFS
+2025,11014,quarterly-Q3,debt,27030879000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2025,11014,quarterly-Q3,total_liabilities,48428751000000.0,부채총계,CFS
+2025,11014,quarterly-Q3,operating_profit,11383390000000.0,영업이익,CFS
+2025,11014,quarterly-Q3,cost_of_sales,10419829000000.0,매출원가,CFS
+2025,11014,quarterly-Q3,interest_expense,1092286000000.0,금융비용,CFS
+2025,11014,quarterly-Q3,gross_profit,14029100000000.0,매출총이익,CFS
+2025,11014,quarterly-Q3,revenue,24448929000000.0,매출액,CFS
+2026,11012,half-year,total_assets,348862214000000.0,자산총계,CFS
+2026,11012,half-year,cash,26835986000000.0,현금및현금성자산; 기초 현금및현금성자산; 반기말 현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감,CFS
+2026,11012,half-year,receivables,47821395000000.0,매출채권; 기타,CFS
+2026,11012,half-year,inventory,17985706000000.0,재고자산,CFS
+2026,11012,half-year,depreciation,4283131000000.0,무형자산,CFS
+2026,11012,half-year,intangibles_purchase,4948311000000.0,무형자산; 무형자산의 취득,CFS
+2026,11012,half-year,ppe_purchase,107217982000000.0,유형자산; 유형자산의 취득,CFS
+2026,11012,half-year,total_equity,262693228000000.0,자본총계; 부채및자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계,CFS
+2026,11012,half-year,debt,21400324000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2026,11012,half-year,current_liabilities,830349000000.0,기타유동부채; 기타비유동부채,CFS
+2026,11012,half-year,total_liabilities,86168986000000.0,부채총계,CFS
+2026,11012,half-year,operating_profit,60542608000000.0,영업이익,CFS
+2026,11012,half-year,cost_of_sales,13327390000000.0,매출원가,CFS
+2026,11012,half-year,interest_expense,3640903000000.0,금융비용,CFS
+2026,11012,half-year,gross_profit,65991356000000.0,매출총이익,CFS
+2026,11012,half-year,revenue,79318746000000.0,매출액,CFS
+2026,11013,quarterly-Q1,total_assets,222828744000000.0,자산총계,CFS
+2026,11013,quarterly-Q1,current_assets,106506116000000.0,유동자산; 기타유동자산; 비유동자산; 기타비유동자산,CFS
+2026,11013,quarterly-Q1,cash,21166904000000.0,현금및현금성자산; 기초 현금및현금성자산; 분기말 현금및현금성자산; 현금및현금성자산의 환율변동효과; 현금및현금성자산의 순증감,CFS
+2026,11013,quarterly-Q1,receivables,33807843000000.0,매출채권,CFS
+2026,11013,quarterly-Q1,inventory,15974133000000.0,재고자산,CFS
+2026,11013,quarterly-Q1,depreciation,4050617000000.0,무형자산,CFS
+2026,11013,quarterly-Q1,intangibles_purchase,4258580000000.0,무형자산; 무형자산의 취득,CFS
+2026,11013,quarterly-Q1,ppe_purchase,89709327000000.0,유형자산; 유형자산의 취득,CFS
+2026,11013,quarterly-Q1,total_equity,164379799000000.0,자본총계; 부채및자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계; 자본총계,CFS
+2026,11013,quarterly-Q1,current_liabilities,40700530000000.0,유동부채; 기타유동부채; 비유동부채; 기타비유동부채,CFS
+2026,11013,quarterly-Q1,debt,21980208000000.0,차입금; 리스부채; 차입금; 리스부채; 리스부채의 상환,CFS
+2026,11013,quarterly-Q1,total_liabilities,58448945000000.0,부채총계,CFS
+2026,11013,quarterly-Q1,operating_profit,37610283000000.0,영업이익,CFS
+2026,11013,quarterly-Q1,cost_of_sales,10896873000000.0,매출원가,CFS
+2026,11013,quarterly-Q1,interest_expense,3023483000000.0,금융비용,CFS
+2026,11013,quarterly-Q1,gross_profit,41679414000000.0,매출총이익,CFS
+2026,11013,quarterly-Q1,revenue,52576287000000.0,매출액,CFS
